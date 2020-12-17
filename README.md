@@ -15,4 +15,4 @@ Folgt diesen Schritten um die Simulation zu installieren:
   * `pip install matplotlib`
 ##Herunterladen der nötigen Dateien
 8. ladet die Dateien *anim.py*, *exoplanet_all.pov* und *exoplanet_easy.ini* und kopiert sie in einen Ordner
-> :warning:
+> :warning: Wenn die Dateien nicht in einen gemeinsamen Ordner kopiert werden funktioniert es nicht.
