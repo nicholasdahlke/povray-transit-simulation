@@ -6,3 +6,6 @@ Folgt diesen Schritten um die Simulation zu installieren:
 3. Starten danach euren Computer neu
 4. Drückt die Tasten *Windows + R* und gebt *cmd*  ein. Drückt danach *Enter*
 5. In dem Fenster das sich dann öffnet gebt den Befehl `pip help` ein.
+6. Wenn ihr hier einen Fehler bekommt schreibt mir eine [E-Mail](mailto:nicholas.dahlke@gmx.de), ansonsten macht weiter mit Schritt 7.
+7. Gebt die folgenden Befehle ein:
+..* `pip install numpy`
