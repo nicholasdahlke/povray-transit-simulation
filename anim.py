@@ -1,9 +1,10 @@
 import os
 import imageio
 import numpy as np
+import platform
 curve = []
 import matplotlib.pyplot as plt
-if os.name == "Linux":
+if platform.system() == "Linux":
     stream = os.popen('povray exoplanet_easy.ini')
 else:
     stream = os.popen('pvengine /render /exit exoplanet_easy.ini')
