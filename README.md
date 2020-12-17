@@ -14,5 +14,7 @@ Folgt diesen Schritten um die Simulation zu installieren:
   * `pip install imageio`
   * `pip install matplotlib`
 ##Herunterladen der nötigen Dateien
-8. ladet die Dateien *anim.py*, *exoplanet_all.pov* und *exoplanet_easy.ini* und kopiert sie in einen Ordner
+8. ladet die Dateien *anim.py*, *exoplanet_all.pov* und *exoplanet_easy.ini* und kopiert sie in einen gemeinsamen Ordner
 > **Achtung**: Wenn die Dateien nicht in einen gemeinsamen Ordner kopiert werden funktioniert es nicht.
+9. Öffnet den Ordner in dem ihr die Dateien gespeichert habt und kopiert den Pfad indem ohr auf das kleine Ordnersymbol klickt.
+ ![Bild konnte nicht geladen werden](https://www.tippscout.de/wp-content/uploads/2007/07/Windows-Pfad-anzeigen-1-300x162.png.webp) 
