@@ -14,4 +14,5 @@ Folgt diesen Schritten um die Simulation zu installieren:
   * `pip install imageio`
   * `pip install matplotlib`
 ##Herunterladen der nötigen Dateien
-8. ladet die Dateien *anim.py*, *exoplanet_all.pov* und *exoplanet_easy.ini*
+8. ladet die Dateien *anim.py*, *exoplanet_all.pov* und *exoplanet_easy.ini* und kopiert sie in einen Ordner
+> :warning:
