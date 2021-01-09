@@ -12,8 +12,6 @@ else:
     stream = os.popen('pvengine /render /exit exoplanet_easy.ini')
 output = stream.read()
 print(output)
-image_folder='/home/nicholas/PycharmProjects/povray'
-fps=60
 name = []
 for i in range(2000):
     name.append("")
