@@ -24,6 +24,7 @@ Ladet sie [hier](http://www.povray.org/redirect/www.povray.org/ftp/pub/povray/Of
  ![Bild konnte nicht geladen werden](https://www.tippscout.de/wp-content/uploads/2007/07/Windows-Pfad-anzeigen-1-300x162.png.webp) 
 
  ![Bild konnte nicht geladen werden](https://www.tippscout.de/wp-content/uploads/2007/07/Windows-Pfad-anzeigen-2-300x143.png.webp)
+ 
 10. geht wieder zurück zu dem *cmd* Fenster und gebt den Befehl `cd das-kopierte`. Ersetzt *das-kopierte* durch das was ihr im vorherigen Schritt kopiert habt. Drückt dann *Enter*.
 11. Jetzt sollte alles notwendige installiert sein und ihr könnt die Simulation mit dem Befehl `Python anim.py` starten (Danach wieder *Enter* drücken)
 > Wenn etwas nicht funktioniert schreibt mir eine E-Mail oder meldet euch über Telegram
