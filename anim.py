@@ -26,9 +26,9 @@ for i in name:
     print(summe)
     print(type(summe))
     curve.append(summe)
-
+outputfilename = input("Filename of resulting .csv file")
 df = pd.DataFrame({"index":numbers,"curve":curve})
-df.to_csv("halb4v", index = False)
+df.to_csv(outputfilename, index = False)
 plt.plot(curve)
 plt.ylabel("something")
 plt.show()
