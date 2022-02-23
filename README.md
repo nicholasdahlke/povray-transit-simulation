@@ -9,7 +9,7 @@ Ladet sie [hier](http://www.povray.org/redirect/www.povray.org/ftp/pub/povray/Of
 5. In dem Fenster das sich dann öffnet gebt den Befehl `pip help` ein.
 6. Wenn ihr hier einen Fehler bekommt schreibt mir eine [E-Mail](mailto:nicholas.dahlke@gmx.de), ansonsten macht weiter mit Schritt 7.
 7. Gebt den folgenden Befehl ein(nach dem Befehl *Enter* drücken):
-  * `pip install numpy imageio pillow matplotlib `
+  * `pip install numpy imageio pillow matplotlib pandas`
 8. ladet die Dateien *anim.py*, *exoplanet_all.pov* und *exoplanet_easy.ini* und kopiert sie in einen gemeinsamen Ordner
 > **Achtung**: Wenn die Dateien nicht in einen gemeinsamen Ordner kopiert werden funktioniert es nicht.
 9. Öffnet den Ordner in dem ihr die Dateien gespeichert habt und kopiert den Pfad indem ihr auf das kleine Ordnersymbol klickt und das blau markierte kopiert.
