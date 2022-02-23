@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 if platform.system() == "Linux":
     stream = os.popen('povray exoplanet_easy.ini')
 else:
-    stream = os.popen('pvengine /render /exit exoplanet_easy.ini')
+    stream = os.popen('pvengine.exe /EXIT /RENDER exoplanet_easy.ini')
 output = stream.read()
 print(output)
 name = []
